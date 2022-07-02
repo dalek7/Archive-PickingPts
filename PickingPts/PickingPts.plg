@@ -1,0 +1,55 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: PickingPts - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\seung\AppData\Local\Temp\RSPDB9B.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/PickingPts.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\work\COPIED\PickingPts\lib\vParser.cpp"
+"C:\work\COPIED\PickingPts\lib\PTRList.cpp"
+]
+Creating command line "cl.exe @C:\Users\seung\AppData\Local\Temp\RSPDB9B.tmp" 
+Creating temporary file "C:\Users\seung\AppData\Local\Temp\RSPDB9C.tmp" with contents
+[
+cv.lib highgui.lib cvaux.lib cxcore.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/PickingPts.pdb" /debug /machine:I386 /out:"../bin/PickingPts.exe" /pdbtype:sept 
+.\Debug\MainFrm.obj
+.\Debug\PickingPts.obj
+.\Debug\PickingPtsDoc.obj
+.\Debug\PickingPtsView.obj
+.\Debug\StdAfx.obj
+.\Debug\CMDEdit.obj
+.\Debug\ddStatic.obj
+.\Debug\dhMat.obj
+.\Debug\dhVector.obj
+.\Debug\Elapsed.obj
+.\Debug\FileProc.obj
+.\Debug\MouseProc.obj
+.\Debug\CVProc.obj
+.\Debug\VWnd.obj
+.\Debug\PickingPts.res
+.\Debug\vParser.obj
+.\Debug\vString.obj
+.\Debug\vToken.obj
+.\Debug\PTRList.obj
+]
+Creating command line "link.exe @C:\Users\seung\AppData\Local\Temp\RSPDB9C.tmp"
+<h3>Output Window</h3>
+Compiling...
+vParser.cpp
+C:\work\COPIED\PickingPts\lib\vParser.cpp(528) : warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+C:\work\COPIED\PickingPts\lib\vParser.cpp(934) : warning C4390: ';' : empty controlled statement found; is this the intent?
+PTRList.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+PickingPts.exe - 0 error(s), 2 warning(s)
+</pre>
+</body>
+</html>

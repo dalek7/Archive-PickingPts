@@ -1,6 +1,33 @@
 # Prerequisites
 *.d
 
+# seung
+*.vc
+*.VC.db
+Release/
+Debug/
+CMakeLists.txt.user
+ORBvoc.txt
+ORBvoc.txt.tar
+eigen*/
+*.zip
+build/
+build_/
+bin/
+CMakeFiles/
+*.bak 
+ 
+Thumbs.db
+
+out/
+*.pdb
+*.VC.db
+.vs/
+*.opendb
+*.obj
+*~
+lib/
+
 # Compiled Object files
 *.slo
 *.lo
