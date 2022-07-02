@@ -19,10 +19,10 @@ Class6=CVWnd
 ResourceCount=6
 Resource1=IDD_ABOUTBOX
 Resource2=IDR_MAINFRAME
-Resource3=IDD_PICKINGPTS_FORM
+Resource3=IDD_PICKINGPTS_FORM (Korean)
 Resource4=IDD_ABOUTBOX (Korean)
 Resource5=IDR_MAINFRAME (Korean)
-Resource6=IDD_PICKINGPTS_FORM (Korean)
+Resource6=IDD_PICKINGPTS_FORM
 
 [CLS:CMainFrame]
 Type=0

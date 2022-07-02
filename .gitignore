@@ -15,7 +15,9 @@ build/
 build_/
 bin/
 CMakeFiles/
-*.bak 
+*.bak
+.DS_Store
+.DS_Store/
  
 Thumbs.db
 
