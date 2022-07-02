@@ -20,6 +20,7 @@ CMakeFiles/
 Thumbs.db
 
 out/
+*.ncb #VS6
 *.pdb
 *.VC.db
 .vs/
@@ -37,6 +38,7 @@ lib/
 # Precompiled Headers
 *.gch
 *.pch
+
 
 # Compiled Dynamic libraries
 *.so

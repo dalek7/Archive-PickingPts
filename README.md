@@ -3,11 +3,11 @@ An old work for picking points
 
 
 * Screenshots
-<img src='screenshots/pick.png />
+<img src='screenshots/pick.png' />
 
-<img src='screenshots/window1.png />
+<img src='screenshots/window1.png' />
 
-<img src='screenshots/window1_img.png />
+<img src='screenshots/window1_img.png' />
 
 
 * Output example
